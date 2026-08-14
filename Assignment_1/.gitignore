@@ -1,0 +1,6 @@
+__pycache__/
+output/
+smoke_output/
+*.parquet
+*.sqlite3
+hi-*.txt
