@@ -1,6 +1,6 @@
 __pycache__/
-output/
+output/indiccorp_full.zip
+output/indiccorp_full/
 smoke_output/
-*.parquet
 *.sqlite3
 hi-*.txt
