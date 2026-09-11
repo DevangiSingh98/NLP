@@ -1,0 +1,17 @@
+{
+  "smoothing": "add-k",
+  "k": 0.3,
+  "vocabulary_size": 66481,
+  "development": {
+    "1-gram_perplexity": 70.64226994110436,
+    "2-gram_perplexity": 29.81560596169902,
+    "3-gram_perplexity": 31.443762343641637,
+    "4-gram_perplexity": 74.26791816877852
+  },
+  "test": {
+    "1-gram_perplexity": 72.1934296734814,
+    "2-gram_perplexity": 30.66666958621726,
+    "3-gram_perplexity": 32.856159002076126,
+    "4-gram_perplexity": 80.18576626554147
+  }
+}
