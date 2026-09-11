@@ -1,0 +1,17 @@
+{
+  "development": {
+    "1-gram_perplexity": 70.62860437582889,
+    "2-gram_perplexity": 34.144788887420106,
+    "3-gram_perplexity": 52.15249782481467,
+    "4-gram_perplexity": 171.1865729405313
+  },
+  "test": {
+    "1-gram_perplexity": 72.16490861470592,
+    "2-gram_perplexity": 35.222295577165816,
+    "3-gram_perplexity": 54.79112783160819,
+    "4-gram_perplexity": 184.99178935690674
+  },
+  "training_sentences": 1000000,
+  "development_sentences": 1000,
+  "test_sentences": 1000
+}
