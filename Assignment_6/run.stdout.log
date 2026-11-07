@@ -1,0 +1,75 @@
+{
+  "parameters": {
+    "good_turing_cutoff": 5,
+    "stupid_backoff_alpha": 0.4,
+    "kneser_ney_discount": 0.75
+  },
+  "interpolated": {
+    "development": {
+      "2-gram_perplexity": 28.91552400986916,
+      "3-gram_perplexity": 14.551198605879112,
+      "4-gram_perplexity": 9.702063537612968
+    },
+    "test": {
+      "2-gram_perplexity": 29.655111128139932,
+      "3-gram_perplexity": 14.830218877566843,
+      "4-gram_perplexity": 9.934892329477123
+    }
+  },
+  "good_turing": {
+    "development": {
+      "1-gram_perplexity": 70.55490311864148,
+      "2-gram_perplexity": 25.77472330326049,
+      "3-gram_perplexity": 14.904333913263667,
+      "4-gram_perplexity": 16.200234944799966
+    },
+    "test": {
+      "1-gram_perplexity": 72.06218105857906,
+      "2-gram_perplexity": 26.397339665983537,
+      "3-gram_perplexity": 14.80766021401371,
+      "4-gram_perplexity": 14.492495474972747
+    }
+  },
+  "katz_backoff": {
+    "development": {
+      "1-gram_perplexity": 70.55490311864148,
+      "2-gram_perplexity": 25.595508735276955,
+      "3-gram_perplexity": 13.668260906266134,
+      "4-gram_perplexity": 12.309084951382042
+    },
+    "test": {
+      "1-gram_perplexity": 72.06218105857906,
+      "2-gram_perplexity": 26.25718722060495,
+      "3-gram_perplexity": 13.606215843079141,
+      "4-gram_perplexity": 10.828369312703012
+    }
+  },
+  "stupid_backoff": {
+    "development": {
+      "1-gram_perplexity": 70.55490311864148,
+      "2-gram_perplexity": 25.13495761576477,
+      "3-gram_perplexity": 12.486528017713654,
+      "4-gram_perplexity": 8.13811540746952
+    },
+    "test": {
+      "1-gram_perplexity": 72.06218105857906,
+      "2-gram_perplexity": 25.785857390751012,
+      "3-gram_perplexity": 12.699428114482647,
+      "4-gram_perplexity": 8.350046834250717
+    }
+  },
+  "kneser_ney": {
+    "development": {
+      "1-gram_perplexity": 265.3328747384453,
+      "2-gram_perplexity": 25.155293101214017,
+      "3-gram_perplexity": 12.683245670161721,
+      "4-gram_perplexity": 8.389202940540432
+    },
+    "test": {
+      "1-gram_perplexity": 268.7985949956644,
+      "2-gram_perplexity": 25.800367501252783,
+      "3-gram_perplexity": 12.922267437354044,
+      "4-gram_perplexity": 8.648146195807943
+    }
+  }
+}

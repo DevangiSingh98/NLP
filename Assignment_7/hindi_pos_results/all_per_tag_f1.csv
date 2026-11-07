@@ -1,0 +1,193 @@
+split,algorithm,tag,f1
+dev,Naive Bayes,CC_CCD,0.9483568075117371
+dev,Naive Bayes,CC_CCS,0.9678688524590164
+dev,Naive Bayes,DM_DMD,0.8830917874396135
+dev,Naive Bayes,JJ,0.8690749634579245
+dev,Naive Bayes,N_NN,0.9074884921971483
+dev,Naive Bayes,N_NNP,0.8361593895718524
+dev,Naive Bayes,N_NST,0.8897005113221329
+dev,Naive Bayes,PR_PRF,0.9164086687306502
+dev,Naive Bayes,PR_PRL,0.7279693486590039
+dev,Naive Bayes,PR_PRP,0.8967806173249253
+dev,Naive Bayes,PR_PRQ,0.782608695652174
+dev,Naive Bayes,PSP,0.9847117794486215
+dev,Naive Bayes,QT_QTC,0.9166193987521271
+dev,Naive Bayes,QT_QTF,0.8643067846607669
+dev,Naive Bayes,QT_QTO,0.6013071895424836
+dev,Naive Bayes,RB,0.6118980169971672
+dev,Naive Bayes,RD_PUNC,0.9925297799313547
+dev,Naive Bayes,RD_SYM,0.9191270860077022
+dev,Naive Bayes,RP_INJ,0.0
+dev,Naive Bayes,RP_INTF,0.7575757575757576
+dev,Naive Bayes,RP_NEG,0.9043478260869565
+dev,Naive Bayes,RP_RPD,0.8851251840942562
+dev,Naive Bayes,V_VAUX,0.9736585365853658
+dev,Naive Bayes,V_VM,0.9586737714624037
+dev,HMM forward Viterbi,CC_CCD,0.9634864546525324
+dev,HMM forward Viterbi,CC_CCS,0.9596412556053812
+dev,HMM forward Viterbi,DM_DMD,0.895910780669145
+dev,HMM forward Viterbi,JJ,0.8863588446131141
+dev,HMM forward Viterbi,N_NN,0.9146689019279128
+dev,HMM forward Viterbi,N_NNP,0.8380870684108943
+dev,HMM forward Viterbi,N_NST,0.9443585780525502
+dev,HMM forward Viterbi,PR_PRF,0.9934640522875817
+dev,HMM forward Viterbi,PR_PRL,0.8711111111111111
+dev,HMM forward Viterbi,PR_PRP,0.9534963830520151
+dev,HMM forward Viterbi,PR_PRQ,0.9387755102040817
+dev,HMM forward Viterbi,PSP,0.9838469184890656
+dev,HMM forward Viterbi,QT_QTC,0.8599562363238512
+dev,HMM forward Viterbi,QT_QTF,0.9212121212121213
+dev,HMM forward Viterbi,QT_QTO,0.8032786885245902
+dev,HMM forward Viterbi,RB,0.8115015974440895
+dev,HMM forward Viterbi,RD_PUNC,0.9938061938061938
+dev,HMM forward Viterbi,RD_SYM,0.9809782608695652
+dev,HMM forward Viterbi,RP_INJ,1.0
+dev,HMM forward Viterbi,RP_INTF,0.5714285714285714
+dev,HMM forward Viterbi,RP_NEG,0.8949152542372881
+dev,HMM forward Viterbi,RP_RPD,0.919908466819222
+dev,HMM forward Viterbi,V_VAUX,0.9557386472504311
+dev,HMM forward Viterbi,V_VM,0.9429145491076705
+dev,HMM backward Viterbi,CC_CCD,0.9634864546525324
+dev,HMM backward Viterbi,CC_CCS,0.9596412556053812
+dev,HMM backward Viterbi,DM_DMD,0.895910780669145
+dev,HMM backward Viterbi,JJ,0.8863588446131141
+dev,HMM backward Viterbi,N_NN,0.9146689019279128
+dev,HMM backward Viterbi,N_NNP,0.8380870684108943
+dev,HMM backward Viterbi,N_NST,0.9443585780525502
+dev,HMM backward Viterbi,PR_PRF,0.9934640522875817
+dev,HMM backward Viterbi,PR_PRL,0.8711111111111111
+dev,HMM backward Viterbi,PR_PRP,0.9534963830520151
+dev,HMM backward Viterbi,PR_PRQ,0.9387755102040817
+dev,HMM backward Viterbi,PSP,0.9838469184890656
+dev,HMM backward Viterbi,QT_QTC,0.8599562363238512
+dev,HMM backward Viterbi,QT_QTF,0.9212121212121213
+dev,HMM backward Viterbi,QT_QTO,0.8032786885245902
+dev,HMM backward Viterbi,RB,0.8115015974440895
+dev,HMM backward Viterbi,RD_PUNC,0.9938061938061938
+dev,HMM backward Viterbi,RD_SYM,0.9809782608695652
+dev,HMM backward Viterbi,RP_INJ,1.0
+dev,HMM backward Viterbi,RP_INTF,0.5714285714285714
+dev,HMM backward Viterbi,RP_NEG,0.8949152542372881
+dev,HMM backward Viterbi,RP_RPD,0.919908466819222
+dev,HMM backward Viterbi,V_VAUX,0.9557386472504311
+dev,HMM backward Viterbi,V_VM,0.9429145491076705
+dev,HMM forward-backward posterior decoding,CC_CCD,0.968583283935981
+dev,HMM forward-backward posterior decoding,CC_CCS,0.9714656290531777
+dev,HMM forward-backward posterior decoding,DM_DMD,0.9137931034482759
+dev,HMM forward-backward posterior decoding,JJ,0.8864114429953723
+dev,HMM forward-backward posterior decoding,N_NN,0.9155688955588905
+dev,HMM forward-backward posterior decoding,N_NNP,0.8333333333333334
+dev,HMM forward-backward posterior decoding,N_NST,0.912751677852349
+dev,HMM forward-backward posterior decoding,PR_PRF,0.9838187702265372
+dev,HMM forward-backward posterior decoding,PR_PRL,0.8048780487804879
+dev,HMM forward-backward posterior decoding,PR_PRP,0.9456781687734882
+dev,HMM forward-backward posterior decoding,PR_PRQ,0.9795918367346939
+dev,HMM forward-backward posterior decoding,PSP,0.984223602484472
+dev,HMM forward-backward posterior decoding,QT_QTC,0.8698553948832035
+dev,HMM forward-backward posterior decoding,QT_QTF,0.9247311827956989
+dev,HMM forward-backward posterior decoding,QT_QTO,0.8166666666666667
+dev,HMM forward-backward posterior decoding,RB,0.8
+dev,HMM forward-backward posterior decoding,RD_PUNC,0.9934092270820851
+dev,HMM forward-backward posterior decoding,RD_SYM,0.9512516469038208
+dev,HMM forward-backward posterior decoding,RP_INJ,1.0
+dev,HMM forward-backward posterior decoding,RP_INTF,0.6292134831460674
+dev,HMM forward-backward posterior decoding,RP_NEG,0.9025641025641026
+dev,HMM forward-backward posterior decoding,RP_RPD,0.9141989369779803
+dev,HMM forward-backward posterior decoding,V_VAUX,0.9608830364058869
+dev,HMM forward-backward posterior decoding,V_VM,0.9459172852598091
+test,Naive Bayes,CC_CCD,0.9615626969124134
+test,Naive Bayes,CC_CCS,0.966869506423259
+test,Naive Bayes,DM_DMD,0.8982584784601283
+test,Naive Bayes,JJ,0.8865004299226139
+test,Naive Bayes,N_NN,0.9011576135351737
+test,Naive Bayes,N_NNP,0.8406928054815379
+test,Naive Bayes,N_NST,0.8893709327548807
+test,Naive Bayes,PR_PRF,0.9034267912772586
+test,Naive Bayes,PR_PRL,0.7247706422018348
+test,Naive Bayes,PR_PRP,0.9070764832022874
+test,Naive Bayes,PR_PRQ,0.8301886792452831
+test,Naive Bayes,PSP,0.9823769742057442
+test,Naive Bayes,QT_QTC,0.9201563372417644
+test,Naive Bayes,QT_QTF,0.8562874251497006
+test,Naive Bayes,QT_QTO,0.6666666666666666
+test,Naive Bayes,RB,0.6610169491525424
+test,Naive Bayes,RD_PUNC,0.9942969518190757
+test,Naive Bayes,RD_SYM,0.9427402862985685
+test,Naive Bayes,RP_INJ,0.0
+test,Naive Bayes,RP_INTF,0.8214285714285714
+test,Naive Bayes,RP_NEG,0.8876611418047882
+test,Naive Bayes,RP_RPD,0.8829787234042553
+test,Naive Bayes,V_VAUX,0.9755333724799373
+test,Naive Bayes,V_VM,0.9634983736899169
+test,HMM forward Viterbi,CC_CCD,0.95125
+test,HMM forward Viterbi,CC_CCS,0.9625738673670388
+test,HMM forward Viterbi,DM_DMD,0.8971119133574007
+test,HMM forward Viterbi,JJ,0.8991706678306416
+test,HMM forward Viterbi,N_NN,0.9070881753593656
+test,HMM forward Viterbi,N_NNP,0.8410017472335469
+test,HMM forward Viterbi,N_NST,0.9316109422492401
+test,HMM forward Viterbi,PR_PRF,0.9966777408637874
+test,HMM forward Viterbi,PR_PRL,0.8514851485148515
+test,HMM forward Viterbi,PR_PRP,0.952837140751658
+test,HMM forward Viterbi,PR_PRQ,0.9666666666666667
+test,HMM forward Viterbi,PSP,0.9822714346221335
+test,HMM forward Viterbi,QT_QTC,0.8310847274689692
+test,HMM forward Viterbi,QT_QTF,0.9347496206373292
+test,HMM forward Viterbi,QT_QTO,0.8873239436619719
+test,HMM forward Viterbi,RB,0.803921568627451
+test,HMM forward Viterbi,RD_PUNC,0.9933749025720966
+test,HMM forward Viterbi,RD_SYM,0.9830148619957537
+test,HMM forward Viterbi,RP_INJ,0.0
+test,HMM forward Viterbi,RP_INTF,0.5714285714285714
+test,HMM forward Viterbi,RP_NEG,0.8832116788321168
+test,HMM forward Viterbi,RP_RPD,0.9104
+test,HMM forward Viterbi,V_VAUX,0.958109146810146
+test,HMM forward Viterbi,V_VM,0.9470517448856799
+test,HMM backward Viterbi,CC_CCD,0.95125
+test,HMM backward Viterbi,CC_CCS,0.9625738673670388
+test,HMM backward Viterbi,DM_DMD,0.8971119133574007
+test,HMM backward Viterbi,JJ,0.8991706678306416
+test,HMM backward Viterbi,N_NN,0.9070881753593656
+test,HMM backward Viterbi,N_NNP,0.8410017472335469
+test,HMM backward Viterbi,N_NST,0.9316109422492401
+test,HMM backward Viterbi,PR_PRF,0.9966777408637874
+test,HMM backward Viterbi,PR_PRL,0.8514851485148515
+test,HMM backward Viterbi,PR_PRP,0.952837140751658
+test,HMM backward Viterbi,PR_PRQ,0.9666666666666667
+test,HMM backward Viterbi,PSP,0.9822714346221335
+test,HMM backward Viterbi,QT_QTC,0.8310847274689692
+test,HMM backward Viterbi,QT_QTF,0.9347496206373292
+test,HMM backward Viterbi,QT_QTO,0.8873239436619719
+test,HMM backward Viterbi,RB,0.803921568627451
+test,HMM backward Viterbi,RD_PUNC,0.9933749025720966
+test,HMM backward Viterbi,RD_SYM,0.9830148619957537
+test,HMM backward Viterbi,RP_INJ,0.0
+test,HMM backward Viterbi,RP_INTF,0.5714285714285714
+test,HMM backward Viterbi,RP_NEG,0.8832116788321168
+test,HMM backward Viterbi,RP_RPD,0.9104
+test,HMM backward Viterbi,V_VAUX,0.958109146810146
+test,HMM backward Viterbi,V_VM,0.9470517448856799
+test,HMM forward-backward posterior decoding,CC_CCD,0.961659333752357
+test,HMM forward-backward posterior decoding,CC_CCS,0.9735099337748344
+test,HMM forward-backward posterior decoding,DM_DMD,0.9143389199255121
+test,HMM forward-backward posterior decoding,JJ,0.9008498583569405
+test,HMM forward-backward posterior decoding,N_NN,0.9083036448342011
+test,HMM forward-backward posterior decoding,N_NNP,0.8386339172130346
+test,HMM forward-backward posterior decoding,N_NST,0.9101707498144024
+test,HMM forward-backward posterior decoding,PR_PRF,0.9933774834437086
+test,HMM forward-backward posterior decoding,PR_PRL,0.7623318385650224
+test,HMM forward-backward posterior decoding,PR_PRP,0.9477148080438756
+test,HMM forward-backward posterior decoding,PR_PRQ,0.9310344827586207
+test,HMM forward-backward posterior decoding,PSP,0.9836006051437216
+test,HMM forward-backward posterior decoding,QT_QTC,0.8466593647316539
+test,HMM forward-backward posterior decoding,QT_QTF,0.9384615384615385
+test,HMM forward-backward posterior decoding,QT_QTO,0.8794326241134752
+test,HMM forward-backward posterior decoding,RB,0.8
+test,HMM forward-backward posterior decoding,RD_PUNC,0.9933749025720966
+test,HMM forward-backward posterior decoding,RD_SYM,0.9497435897435897
+test,HMM forward-backward posterior decoding,RP_INJ,0.0
+test,HMM forward-backward posterior decoding,RP_INTF,0.5853658536585366
+test,HMM forward-backward posterior decoding,RP_NEG,0.8996282527881041
+test,HMM forward-backward posterior decoding,RP_RPD,0.9057507987220448
+test,HMM forward-backward posterior decoding,V_VAUX,0.9600465477114042
+test,HMM forward-backward posterior decoding,V_VM,0.9493352497305066

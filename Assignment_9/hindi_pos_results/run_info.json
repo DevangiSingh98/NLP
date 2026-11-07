@@ -1,0 +1,38 @@
+{
+  "train_sentences": 15087,
+  "dev_sentences": 1866,
+  "test_sentences": 1910,
+  "train_tokens": 325710,
+  "dev_tokens": 40762,
+  "test_tokens": 41415,
+  "tags": [
+    "CC_CCD",
+    "CC_CCS",
+    "DM_DMD",
+    "JJ",
+    "N_NN",
+    "N_NNP",
+    "N_NST",
+    "PR_PRF",
+    "PR_PRL",
+    "PR_PRP",
+    "PR_PRQ",
+    "PSP",
+    "QT_QTC",
+    "QT_QTF",
+    "QT_QTO",
+    "RB",
+    "RD_PUNC",
+    "RD_SYM",
+    "RP_INJ",
+    "RP_INTF",
+    "RP_NEG",
+    "RP_RPD",
+    "V_VAUX",
+    "V_VM"
+  ],
+  "training_seconds": {
+    "MEMM": 84.92,
+    "CRF": 118.53
+  }
+}
