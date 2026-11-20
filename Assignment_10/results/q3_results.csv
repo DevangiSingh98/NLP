@@ -1,0 +1,7 @@
+Embedding,Representation,Accuracy,MacroF1
+Word2Vec,Simple Average,0.813,0.8125499323876628
+Word2Vec,IDF Weighted Average,0.798,0.7975335172236834
+GloVe,Simple Average,0.744,0.7433058991513051
+GloVe,IDF Weighted Average,0.732,0.731526412591812
+FastText,Simple Average,0.785,0.7848190328065904
+FastText,IDF Weighted Average,0.773,0.7729180234064497

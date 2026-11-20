@@ -1,0 +1,6 @@
+gensim==4.4.0
+numpy
+pandas
+scikit-learn
+torch
+matplotlib

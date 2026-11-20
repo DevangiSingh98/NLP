@@ -1,0 +1,4 @@
+Embedding,AnalogyAccuracy
+Word2Vec,0.22268907563025211
+GloVe,0.737
+FastText,0.4858420268256334

@@ -1,0 +1,7 @@
+Embedding,Analogy,Prediction,Expected,Result
+Word2Vec,bad - good + excellent,atrocious,(check manually),See prediction
+Word2Vec,late - delivery + fast,early,(check manually),See prediction
+GloVe,bad - good + excellent,quality,(check manually),See prediction
+GloVe,late - delivery + fast,early,(check manually),See prediction
+FastText,bad - good + excellent,lousy,(check manually),See prediction
+FastText,late - delivery + fast,early,(check manually),See prediction
